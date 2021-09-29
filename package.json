@@ -8,7 +8,7 @@
     "email": "harry9111@naver.com",
     "url": "https://hklee.me"
   },
-  "homepage": "/rechner",
+  "homepage": "/comet/rechner",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
