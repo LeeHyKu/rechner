@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/comet/rechner/static/css/main.a617e044.chunk.css",
+    "main.js": "/comet/rechner/static/js/main.556324a9.chunk.js",
+    "main.js.map": "/comet/rechner/static/js/main.556324a9.chunk.js.map",
+    "runtime-main.js": "/comet/rechner/static/js/runtime-main.293b30ff.js",
+    "runtime-main.js.map": "/comet/rechner/static/js/runtime-main.293b30ff.js.map",
+    "static/js/2.62a75b35.chunk.js": "/comet/rechner/static/js/2.62a75b35.chunk.js",
+    "static/js/2.62a75b35.chunk.js.map": "/comet/rechner/static/js/2.62a75b35.chunk.js.map",
+    "static/js/3.0905a3df.chunk.js": "/comet/rechner/static/js/3.0905a3df.chunk.js",
+    "static/js/3.0905a3df.chunk.js.map": "/comet/rechner/static/js/3.0905a3df.chunk.js.map",
+    "index.html": "/comet/rechner/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/comet/rechner/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.62a75b35.chunk.js.LICENSE.txt": "/comet/rechner/static/js/2.62a75b35.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/comet/rechner/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.293b30ff.js",
+    "static/js/2.62a75b35.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.556324a9.chunk.js"
+  ]
+}
