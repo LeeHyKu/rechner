@@ -1,6 +1,14 @@
 {
   "name": "rechner",
   "version": "0.1.0",
+  "description": "React, Web Calculator, TS4, Project Comet",
+  "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "Hyun-Ku Lee",
+    "email": "harry9111@naver.com",
+    "url": "https://hklee.me"
+  },
+  "homepage": "/rechner",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
